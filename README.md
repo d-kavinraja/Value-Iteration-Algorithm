@@ -85,13 +85,13 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 Mention the optimal policy, optimal value function , success rate for the optimal policy.
 
 ### Optimal Policy:
-![image](https://github.com/Aashima02/rl-value-iteration/assets/93427086/a6fe8ca5-a428-42d0-a9ef-eb54d2bc03ee)
+![image](./Output/o1.png)
 
 ### Optimal Value Function:
-![image](https://github.com/Aashima02/rl-value-iteration/assets/93427086/07a12d6e-173b-4099-b665-0cec64fbf38e)
+![image](./Output/o2.png)
 
 ### Success Rate for Optimal Policy:
-![image](https://github.com/Aashima02/rl-value-iteration/assets/93427086/e7df5ab6-47c8-4c57-97f9-4bd58b4ea95b)
+![image](./Output/o3.png)
 
 
 ## RESULT:
